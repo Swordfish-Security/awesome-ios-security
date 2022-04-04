@@ -24,7 +24,7 @@
 * [Mobile-Security-Framework MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
 * [Runtime Mobile Security (RMS) - is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security)
 
-## Vulnerable Mobile apps:
+## Уязвимые приложения
 * [Myriam iOS](https://github.com/GeoSn0w/Myriam)
 * [ExploitMe Mobile iPhone Labs](http://securitycompass.github.io/iPhoneLabs/)
 * [Owasp: iGoat](https://github.com/hankbao/owasp-igoat)
@@ -34,7 +34,7 @@
 * [OWASP: OMTG-Hacking-Playground](https://github.com/OWASP/OMTG-Hacking-Playground)
 
 
-## Видео (вебинары/митапы/выступления/обзоры)
+## Видео
 - [iOS Application Vulnerabilities and how to find them](https://www.youtube.com/watch?v=2CKrw7ErzCY)
 * [Attacking iPhone XS Max](https://www.youtube.com/watch?v=8cOx7vfszZU&feature=youtu.be)
 * [Behind the Scenes of iOS Security](https://www.youtube.com/watch?v=BLGFriOKz6U)

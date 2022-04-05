@@ -83,8 +83,8 @@
 * [Взлом и внедрение своего кода в чужое iOS-приложение](https://habr.com/ru/company/jugru/blog/570220/)
 * [Безопасность iOS-приложений: гайд для новичков](https://habr.com/ru/company/wrike/blog/544754/)
 
-###En
-####Frida
+### En
+#### Frida
 * [iOS Swift Anti-Jailbreak Bypass with Frida](https://syrion.me/blog/ios-swift-antijailbreak-bypass-frida/)
 * [Gotta Catch 'Em All: Frida & jailbreak detection](https://www.romainthomas.fr/post/21-07-pokemongo-anti-frida-jailbreak-bypass/)
 * [Beginning Frida: Learning Frida use on Linux and (just a bit on) Wintel and Android systems with Python and JavaScript (Frida. hooking, and other tools)](https://www.amazon.com/Beginning-Frida-Learning-Android-JavaScript/dp/B094ZQ1HHC)
@@ -96,7 +96,6 @@
 * [Hacking iOS Simulator with simctl and dynamic libraries](https://curvedlayer.com/2020/08/09/ios-simulator-plugin-simctl.html)
 * [Psychic Paper](https://siguza.github.io/psychicpaper/)
 * [Stealing your SMS messages with iOS 0day](https://wojciechregula.blog/post/stealing-your-sms-messages-with-ios-0day/)
-
 * [Zero-day in Sign in with Apple](https://bhavukjain.com/blog/2020/05/30/zeroday-signin-with-apple/)
 * [Return of the ios sandbox escape: lightspeeds back in the race](https://www.synacktiv.com/en/publications/return-of-the-ios-sandbox-escape-lightspeeds-back-in-the-race.html) 
 * [PIN Selection on Smartphones](https://this-pin-can-be-easily-guessed.github.io/)
@@ -157,7 +156,6 @@
 * [React Native Application Static Analysis](https://suam.wtf/posts/react-native-application-static-analysis-en/)
 * [Pentesting Non-Proxy Aware Mobile Applications Without Root/Jailbreak](https://medium.com/@meshal_/pentesting-non-proxy-aware-mobile-applications-65161f62a965)
 * [Proxying is not the only way to monitor network traffic on your iOS mobile apps](https://twitter.com/ddouhine/status/1430881952559685633?s=28)
-
 
 ## Прочее
 * [OWASP MSTG](https://github.com/OWASP/owasp-mstg/)

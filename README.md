@@ -82,6 +82,7 @@
 * [Гайд по реверсу iOS приложения на примере ExpressVPN](https://habr.com/ru/post/569034/)
 * [Взлом и внедрение своего кода в чужое iOS-приложение](https://habr.com/ru/company/jugru/blog/570220/)
 * [Безопасность iOS-приложений: гайд для новичков](https://habr.com/ru/company/wrike/blog/544754/)
+* [Just for fun: Сколько «живет» iOS до Jailbreak](https://habr.com/ru/company/swordfish_security/blog/525772/)
 
 ### En
 #### Frida
@@ -124,7 +125,6 @@
 * [Attack Secure Boot of SEP](https://raw.githubusercontent.com/windknown/presentations/master/Attack_Secure_Boot_of_SEP.pdf)
 * [iOS 14 Forensics: What Has Changed Since iOS 13.7](https://blog.elcomsoft.com/2020/09/ios-14-forensics-what-has-changed-since-ios-13-7/)
 * [We Hacked Apple for 3 Months: Here’s What We Found](https://samcurry.net/hacking-apple/)
-* [Just for fun: Сколько «живет» iOS до Jailbreak](https://habr.com/ru/company/swordfish_security/blog/525772/)
 * [Fun with XPC](https://medium.com/@ali.pourhadi/fun-with-xpc-153fd772d409)
 * [Bypass Facebook SSL Certificate Pinning for iOS](https://www.cyclon3.com/bypass-facebook-ssl-certificate-pinning-for-ios)
 * [Bypass Instagram SSL Certificate Pinning for iOS](https://www.cyclon3.com/bypass-instagram-ssl-certificate-pinning-for-ios)
@@ -155,7 +155,6 @@
 * [How to use Ghidra to Reverse Engineer Mobile Application](https://infosecwriteups.com/how-to-use-ghidra-to-reverse-engineer-mobile-application-c2c89dc5b9aa)
 * [React Native Application Static Analysis](https://suam.wtf/posts/react-native-application-static-analysis-en/)
 * [Pentesting Non-Proxy Aware Mobile Applications Without Root/Jailbreak](https://medium.com/@meshal_/pentesting-non-proxy-aware-mobile-applications-65161f62a965)
-* [Proxying is not the only way to monitor network traffic on your iOS mobile apps](https://twitter.com/ddouhine/status/1430881952559685633?s=28)
 * [CVE-2021-30737 - Vulnerability Overview](http://phrack.org/issues/70/12.html#article)
 	* [CVE-2021-30737, @xerub's 2021 iOS ASN.1 Vulnerability](https://googleprojectzero.blogspot.com/2022/04/cve-2021-30737-xerubs-2021-ios-asn1.html) 
 

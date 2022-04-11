@@ -90,7 +90,7 @@
 * [Beginning Frida: Learning Frida use on Linux and (just a bit on) Wintel and Android systems with Python and JavaScript (Frida. hooking, and other tools)](https://www.amazon.com/Beginning-Frida-Learning-Android-JavaScript/dp/B094ZQ1HHC)
 * [Learn how to use Frida with Unity app](https://github.com/kylesmile1103/Learn-Frida)
 
-#### Other
+#### Прочее
 * [iOS Write ups](https://github.com/writeups/iOS)
 * [iOS Internals & Security Testing](https://rentry.co/newvw)
 * [Hacking iOS Simulator with simctl and dynamic libraries](https://curvedlayer.com/2020/08/09/ios-simulator-plugin-simctl.html)
@@ -156,8 +156,10 @@
 * [React Native Application Static Analysis](https://suam.wtf/posts/react-native-application-static-analysis-en/)
 * [Pentesting Non-Proxy Aware Mobile Applications Without Root/Jailbreak](https://medium.com/@meshal_/pentesting-non-proxy-aware-mobile-applications-65161f62a965)
 * [Proxying is not the only way to monitor network traffic on your iOS mobile apps](https://twitter.com/ddouhine/status/1430881952559685633?s=28)
+* [CVE-2021-30737 - Vulnerability Overview](http://phrack.org/issues/70/12.html#article)
+	* [CVE-2021-30737, @xerub's 2021 iOS ASN.1 Vulnerability](https://googleprojectzero.blogspot.com/2022/04/cve-2021-30737-xerubs-2021-ios-asn1.html) 
 
-## Прочее
+## Остальные материалы
 * [OWASP MSTG](https://github.com/OWASP/owasp-mstg/)
 * [Full Mobile Hacking Course](https://mega.nz/folder/spoGDToC#zjYFlRAU7S06u5jSaQnvYw)
 * [NowSecure Academy](https://academy.nowsecure.com/)

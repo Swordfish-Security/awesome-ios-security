@@ -38,9 +38,10 @@
 * [AFL - american fuzzy lop](https://lcamtuf.coredump.cx/afl/)
 * [Setup for i0S and Android Application Analysis](https://m2sup3rn0va.github.io/SiAAA/) - This is a cheatsheet to install tools required for i0S and Android application pentesting
 * [AES Killer (Burpsuite Plugin)](https://github.com/Ebryx/AES-Killer)
-* [ReFlutter](https://github.com/ptswarm/reFlutter)
+* [ReFlutter](https://github.com/Impact-I/reFlutter)
 * [Lief](https://github.com/lief-project/LIEF)
 * [Mobile Verification Toolkit](https://github.com/mvt-project/mvt)
+* [Hack for SpringBoard to prevent kill process](https://gist.github.com/hexploitable/5a2318f89fb696da772430bfbb864cd9)
 
 ## Инструменты защиты
 * [EllipticCurveKeyPair](https://github.com/agens-no/EllipticCurveKeyPair) - Sign, verify, encrypt and decrypt using the Secure Enclave on iOS and MacOS.
@@ -57,6 +58,8 @@
 * Magnet Virtual Summit 2020 CTF (iOS) 
 	* [writeup 1](https://www.stark4n6.com/2020/06/magnet-virtual-summit-2020-ctf-ios.html)
 	* [writeup 2](https://dfir300.blogspot.com/2020/06/mvs2020ctf-write-up-ios.html)
+* [r2con2020 iOS Challenge 2](https://github.com/hexploitable/r2con2020_r2frida/blob/master/ios-challenge-2.ipa)
+	* [iOS Anti-Tampers Bypass](https://rodnt.github.io/post/2022-03-20-ios-antitampers-bypass/)
 
 
 ## Видео

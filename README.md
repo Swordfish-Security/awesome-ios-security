@@ -163,6 +163,7 @@
 * [Pentesting Non-Proxy Aware Mobile Applications Without Root/Jailbreak](https://medium.com/@meshal_/pentesting-non-proxy-aware-mobile-applications-65161f62a965)
 * [CVE-2021-30737 - Vulnerability Overview](http://phrack.org/issues/70/12.html#article)
 	* [CVE-2021-30737, @xerub's 2021 iOS ASN.1 Vulnerability](https://googleprojectzero.blogspot.com/2022/04/cve-2021-30737-xerubs-2021-ios-asn1.html) 
+* [Facebook BugBounty Writeups](https://github.com/jaiswalakshansh/Facebook-BugBounty-Writeups)
 
 ## Остальные материалы
 * [OWASP MSTG](https://github.com/OWASP/owasp-mstg/)

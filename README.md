@@ -96,6 +96,7 @@
 * [Gotta Catch 'Em All: Frida & jailbreak detection](https://www.romainthomas.fr/post/21-07-pokemongo-anti-frida-jailbreak-bypass/)
 * [Beginning Frida: Learning Frida use on Linux and (just a bit on) Wintel and Android systems with Python and JavaScript (Frida. hooking, and other tools)](https://www.amazon.com/Beginning-Frida-Learning-Android-JavaScript/dp/B094ZQ1HHC)
 * [Learn how to use Frida with Unity app](https://github.com/kylesmile1103/Learn-Frida)
+* [Advanced Frida Usage Part 1 – IOS Encryption Libraries](https://8ksec.io/advanced-frida-usage-part-1-ios-encryption-libraries-8ksec-blogs/)
 
 #### Прочее
 * [iOS Write ups](https://github.com/writeups/iOS)
